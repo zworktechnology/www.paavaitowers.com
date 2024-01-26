@@ -12,6 +12,7 @@
     <link rel="stylesheet preload" as="style" href="css/icomoon.css">
     <link rel="stylesheet preload" as="style" href="css/libs.min.css">
     <link rel="stylesheet" href="css/contacts2.min.css">
+    <link rel="stylesheet" href="css/faq2.min.css">
     <link rel="stylesheet" href="css/floatbutton.min.css">
 </head>
 
@@ -82,7 +83,8 @@
     </header>
 
     <main>
-        <section class="contacts section">
+
+        <section class="contacts section" style="margin-bottom: 10px;">
             <div class="container container--contacts d-xl-flex align-items-center">
                 <div class="contacts_info">
                     <div class="contacts_info-header">
@@ -142,6 +144,35 @@
                             width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="faq-contacts section" style="padding-top: 20px;">
+            <div class="container d-lg-flex align-items-center">
+                <div class="contacts" data-aos="fade-up">
+                    <div class="contacts_header">
+                        <h2 class="contacts_header-title">We are ready answer your question</h2>
+                        <p class="contacts_header-text">Egestas pretium aenean pharetra magna ac. Et tortor consequat id
+                            porta nibh venenatis cras sed</p>
+                    </div>
+                    <form class="contacts_form form d-sm-flex flex-wrap justify-content-between" action="form.php"
+                        method="post" data-type="feedback">
+                        <div class="field-wrapper"><label class="label" for="feedbackName"><i
+                                    class="icon-user icon"></i></label> <input class="field required" id="feedbackName"
+                                type="text" placeholder="Name"></div>
+                        <div class="field-wrapper"><label class="label" for="feedbackEmail"><i
+                                    class="icon-email icon"></i></label> <input class="field required"
+                                id="feedbackEmail" type="text" data-type="email" placeholder="Email"></div><textarea
+                            class="field textarea required" id="feedbackMessage" placeholder="Message"></textarea>
+                        <button class="btn theme-element theme-element--accent" type="submit">Send message</button>
+                    </form>
+                </div>
+                <div class="media col-lg-6" data-aos="fade-left">
+                    <picture>
+                        <source data-srcset="img/faq/faq.webp" srcset="img/faq/faq.webp"><img class="lazy"
+                            data-src="img/faq/faq.jpg" src="img/faq/faq.jpg" alt="media">
+                    </picture>
                 </div>
             </div>
         </section>
