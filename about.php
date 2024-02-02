@@ -328,8 +328,7 @@
                                 </span>
                                 <div class="reviews_slider-slide_main">
                                     <!-- <h4 class="title">Very cozy room close to everything</h4> -->
-                                    <p class="text">It's located near to Temple as well as Amma Mandapam(Kaveri River),
-                                        but nothing to add anything specific</p>
+                                    <p class="text">Stayed in 4 bed AC room. Very recently renovated. Nice room. New AC. Very near to temple. Just walkable distance from railway station and bus stop.</p>
                                 </div>
                                 <span class="reviews_slider-slide_guest d-flex align-items-center">
                                     <span class="avatar">
@@ -344,8 +343,7 @@
                             <div class="reviews_slider-slide d-flex flex-column justify-content-between swiper-slide">
                                 <div class="reviews_slider-slide_stars d-flex align-items-center"><i class="icon-star icon"></i> <i class="icon-star icon"></i> <i class="icon-star icon"></i> <i class="icon-star icon"></i> <i class="icon-star icon"></i></div><span class="reviews_slider-slide_date"><span class="h4">Happy Guests</span> </span>
                                 <div class="reviews_slider-slide_main">
-                                    <p class="text">Simple but good rooms to rest and visit the nearby temples. it may.
-                                        not be suitable for elders since they do not have a lift. facility.</p>
+                                    <p class="text">Best thing is location. Just 5 min walk to raja gopuram. Bus stand is also nearby. Situated in calm location. Staff behavior was good.</p>
                                 </div><span class="reviews_slider-slide_guest d-flex align-items-center"><span class="avatar">
                                         <picture>
                                             <source data-srcset="img/index/avatar03.webp" srcset="img/index/avatar03.webp"><img class="lazy" data-src="img/index/avatar03.jpg" src="img/index/avatar03.jpg" alt="media">
@@ -356,11 +354,7 @@
                             <div class="reviews_slider-slide d-flex flex-column justify-content-between swiper-slide">
                                 <div class="reviews_slider-slide_stars d-flex align-items-center"><i class="icon-star icon"></i> <i class="icon-star icon"></i> <i class="icon-star icon"></i> <i class="icon-star icon"></i> <i class="icon-star icon"></i></div><span class="reviews_slider-slide_date"><span class="h4">Happy Guests</span> </span>
                                 <div class="reviews_slider-slide_main">
-                                    <p class="text">Cozy accommodation near temple I find the guys at paavai to be super
-                                        helpful and accommodative to my needs even when i checked in earlier. The place
-                                        is comfortable and clean for the price you pay and it is pretty close to sri
-                                        ranganatha temple. I am happy with the service and would definitely recommend
-                                    </p>
+                                    <p class="text">Very neat and clean, walkable distance to railway station, bus stop, chill AC</p>
                                 </div><span class="reviews_slider-slide_guest d-flex align-items-center"><span class="avatar">
                                         <picture>
                                             <source data-srcset="img/index/avatar02.webp" srcset="img/index/avatar02.webp"><img class="lazy" data-src="img/index/avatar02.jpg" src="img/index/avatar02.jpg" alt="media">
@@ -438,8 +432,10 @@
                     Copyright © 2023 <span>Paavai Tower</span>. All Rights Reserved
                 </div>
                 <div class="col-6" style="text-align: right;">
-                    Crafted by<a href="https://zworktechnology.com/" target="_blank"><span>
-                            zworktechnology.com</span></a>
+                    Crafted by
+                    <a href="https://zworktechnology.com/" target="_blank" class="link underlined underlined--white nav-item">
+                        <span>zworktechnology.com</span>
+                    </a>
                 </div>
             </div>
         </div>

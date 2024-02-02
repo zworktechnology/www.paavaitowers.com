@@ -312,8 +312,10 @@
                     Copyright © 2023 <span>Paavai Tower</span>. All Rights Reserved
                 </div>
                 <div class="col-6" style="text-align: right;">
-                    Crafted by<a href="https://zworktechnology.com/" target="_blank"><span>
-                            zworktechnology.com</span></a>
+                    Crafted by
+                    <a href="https://zworktechnology.com/" target="_blank" class="link underlined underlined--white nav-item">
+                        <span>zworktechnology.com</span>
+                    </a>
                 </div>
             </div>
         </div>

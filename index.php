@@ -401,7 +401,7 @@
                         <li class="list-item"><a class="link underlined underlined--white nav-item" data-page="home" href="index.php">Home</a></li>
                         <li class="list-item"><a class="link underlined underlined--white nav-item" data-page="about" href="about.php">About</a></li>
                         <li class="list-item"><a class="link underlined underlined--white nav-item" data-page="rooms" href="rooms.php">Rooms</a></li>
-                        <li class="list-item"><a class="link underlined underlined--white nav-item" data-page="news" href="contacts.php">Contact Us</a></li>
+                        <li class="list-item"><a class="link underlined underlined--white nav-item" data-page="news" href="contacts2.php">Contact Us</a></li>
                     </ul>
                 </div>
                 <div class="footer_main-block footer_main-block--contacts col-sm-5 col-lg-auto">
@@ -437,8 +437,10 @@
                     Copyright © 2023 <span>Paavai Tower</span>. All Rights Reserved
                 </div>
                 <div class="col-6" style="text-align: right;">
-                    Crafted by<a href="https://zworktechnology.com/" target="_blank"><span>
-                            zworktechnology.com</span></a>
+                    Crafted by
+                    <a href="https://zworktechnology.com/" class="link underlined underlined--white nav-item" target="_blank">
+                        <span>zworktechnology.com</span>
+                    </a>
                 </div>
             </div>
         </div>

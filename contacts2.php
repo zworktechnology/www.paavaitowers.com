@@ -218,6 +218,7 @@
         </div>
 
     </main>
+    
     <footer class="footer accent">
         <div class="container">
             <div class="footer_main d-sm-flex flex-wrap flex-lg-nowrap justify-content-between">
@@ -272,8 +273,10 @@
                     Copyright © 2023 <span>Paavai Tower</span>. All Rights Reserved
                 </div>
                 <div class="col-6" style="text-align: right;">
-                    Crafted by<a href="https://zworktechnology.com/" target="_blank"><span>
-                            zworktechnology.com</span></a>
+                    Crafted by
+                    <a href="https://zworktechnology.com/" target="_blank" class="link underlined underlined--white nav-item">
+                        <span>zworktechnology.com</span>
+                    </a>
                 </div>
             </div>
         </div>
