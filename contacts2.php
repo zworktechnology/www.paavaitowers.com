@@ -176,7 +176,7 @@
                             </span>
                         </div>
                         <div class="media">
-                            <img src="img/icon/4.png" style="width: 200px;">
+                            <img src="img/icon/agoda.svg" style="width: 120px;">
                         </div>
                     </li>
                     <li class="rating_list-item col-12 col-sm-6 col-xl-3" data-order="2" data-aos="zoom-in">
@@ -187,7 +187,7 @@
                             </span>
                         </div>
                         <div class="media">
-                            <img src="img/icon/2.png" style="width: 220px;">
+                            <img src="img/icon/goibibo.svg" style="width: 150px;">
                         </div>
                     </li>
                     <li class="rating_list-item col-12 col-sm-6 col-xl-3" data-order="3" data-aos="zoom-in">
@@ -198,7 +198,7 @@
                             </span>
                         </div>
                         <div class="media">
-                            <img src="img/icon/3.png" style="width: 200px;">
+                            <img src="img/icon/google.svg" style="width: 150px;">
                         </div>
                     </li>
                     <li class="rating_list-item col-12 col-sm-6 col-xl-3" data-order="4" data-aos="zoom-in">
@@ -209,7 +209,7 @@
                             </span>
                         </div>
                         <div class="media">
-                            <img src="img/icon/1.png" style="width: 270px;">
+                            <img src="img/icon/makemytrip.svg" style="width: 190px;">
                         </div>
                     </li>
                 </ul>
@@ -218,7 +218,7 @@
         </div>
 
     </main>
-    
+
     <footer class="footer accent">
         <div class="container">
             <div class="footer_main d-sm-flex flex-wrap flex-lg-nowrap justify-content-between">
