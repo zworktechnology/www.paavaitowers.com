@@ -12,6 +12,13 @@
     <link rel="stylesheet preload" as="style" href="css/libs.min.css">
     <link rel="stylesheet" href="css/index.min.css">
     <link rel="stylesheet" href="css/floatbutton.min.css">
+    <style>
+        @media only screen and (max-width: 600px) {
+            [class="card"] {
+                margin-left: 120px;
+            }
+        }
+    </style>
 </head>
 
 <body>
@@ -234,7 +241,7 @@
                             </span>
                         </div>
                         <div class="media">
-                            <img src="img/icon/agoda.svg" style="width: 120px;">
+                            <img src="img/icon/agoda.svg" class="card" style="width: 120px;">
                         </div>
                     </li>
                     <li class="rating_list-item col-12 col-sm-6 col-xl-3" data-order="2" data-aos="zoom-in">
@@ -245,7 +252,7 @@
                             </span>
                         </div>
                         <div class="media">
-                            <img src="img/icon/goibibo.svg" style="width: 150px;">
+                            <img src="img/icon/goibibo.svg" class="card" style="width: 150px;">
                         </div>
                     </li>
                     <li class="rating_list-item col-12 col-sm-6 col-xl-3" data-order="3" data-aos="zoom-in">
@@ -256,7 +263,7 @@
                             </span>
                         </div>
                         <div class="media">
-                            <img src="img/icon/google.svg" style="width: 150px;">
+                            <img src="img/icon/google.svg" class="card" style="width: 150px;">
                         </div>
                     </li>
                     <li class="rating_list-item col-12 col-sm-6 col-xl-3" data-order="4" data-aos="zoom-in">
@@ -267,7 +274,7 @@
                             </span>
                         </div>
                         <div class="media">
-                            <img src="img/icon/makemytrip.svg" style="width: 190px;">
+                            <img src="img/icon/makemytrip.svg" class="card" style="width: 190px;">
                         </div>
                     </li>
                 </ul>
